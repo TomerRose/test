@@ -12,5 +12,10 @@ namespace Test
         {
             Console.WriteLine("Bimp");
         }
+
+        static private void print()
+        {
+            Console.WriteLine("func");
+        }
     }
 }
