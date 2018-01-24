@@ -9,5 +9,6 @@ namespace Test
     class Car
     {
         public int ID { get; set; }
+        public int num { get; set; }
     }
 }

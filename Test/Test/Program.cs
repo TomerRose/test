@@ -15,7 +15,8 @@ namespace Test
 
         static private void print()
         {
-            Console.WriteLine("func");
+            Console.WriteLine("tool");
+
         }
     }
 }
